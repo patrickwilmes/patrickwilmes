@@ -10,8 +10,6 @@ quite large systems. I do mostly web (frontend and backend) and mobile developme
 in other fields like native desktop development and systems programming.
 
 ## Languages / Markups
-<br/>
-
 <img align="left" width="30px" style="padding-right:10px;" alt="Kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
 <img align="left" width="30px" style="padding-right:10px;" alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" width="30px" style="padding-right:10px;" alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -28,12 +26,10 @@ in other fields like native desktop development and systems programming.
 <img align="left" width="30px" style="padding-right:10px;" alt="Latex" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
 <img  align="left" width="30px" style="padding-right:10px;" alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 <br/>
-<br/>
 
 #
 
 ## Operations
-<br/>
 <img align="left" width="30px" style="padding-right:10px;" alt="Jenkins" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
 <img align="left" width="30px" style="padding-right:10px;" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" width="30px" style="padding-right:10px;" alt="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
@@ -45,12 +41,10 @@ in other fields like native desktop development and systems programming.
 <img align="left" width="30px" style="padding-right:10px;" alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img  align="left" width="30px" style="padding-right:10px;" alt="Ansible" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" />
 <br/>
-<br/>
 
 #
 
 ## Technologies, Frameworks, Databases, Tools
-<br/>
 <img align="left" width="30px" style="padding-right:10px;" alt="Jetbrains" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />
 <img align="left" width="30px" style="padding-right:10px;" alt="Postgresql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img align="left" width="30px" style="padding-right:10px;" alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
@@ -65,8 +59,6 @@ in other fields like native desktop development and systems programming.
 <img align="left" width="30px" style="padding-right:10px;" alt="Gradle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
 <img align="left" width="30px" style="padding-right:10px;" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" width="30px" style="padding-right:10px;" alt="Dotnet" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
-
-<br/>
 <br/>
 
 #
