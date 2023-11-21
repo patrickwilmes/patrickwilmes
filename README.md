@@ -2,7 +2,7 @@
 
 **`Software Engineer / Developer`**
 
-I'm Patrick a 32 year old software developer, located in Germany. I started coding early on: Wrote my first LoC 
+I'm Patrick a 33 year old software developer, located in Germany. I started coding early on: Wrote my first LoC 
 at the age of 7 and since then kept on coding and learning new things. I am curious to learn new technologies and
 ways to implement software.
 I worked quite some time for the german public owned services (ARD), as lead developer, concepting and implementing
